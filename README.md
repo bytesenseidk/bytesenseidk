@@ -1,5 +1,5 @@
 [![LarsRosenkilde's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarsRosenkilde)](https://github.com/LarsRosenkilde/github-readme-stats)
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LarsRosenkilde&theme=blue-green)
 <!--
 **LarsRosenkilde/LarsRosenkilde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
